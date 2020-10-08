@@ -8,3 +8,8 @@ bin
 out
 *.iml
 .DS_Store
+
+build/
+*.ipr
+*.iws
+
